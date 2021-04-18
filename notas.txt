@@ -1,0 +1,7 @@
+# Codigo para crear un proyecto con Django
+django-admin startproject app
+
+# Entreamos a la carpeta app
+
+# Ejecutamos el comando para levantar el servidor
+python3 manage.py runserver
