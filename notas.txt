@@ -1,5 +1,5 @@
 ###
-https://www.youtube.com/watch?v=Ey59K7Nj7ZA&ab_channel=AlgoriSoft
+https://www.youtube.com/watch?v=pgBn-M4Jrdo&list=PLxm9hnvxnn-j5ZDOgQS63UIBxQytPdCG7&index=9&ab_channel=AlgoriSoft
 ###
 
 # Codigo para crear un proyecto con Django
