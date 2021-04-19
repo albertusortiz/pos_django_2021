@@ -10,4 +10,8 @@ django-admin startproject app
 # Ejecutamos el comando para levantar el servidor
 python3 manage.py runserver
 python3 manage.py makemigrations #Levantando el servidor
-ython3 manage.py migrate #Creando tablas en la BD
+python3 manage.py migrate #Creando tablas en la BD
+
+# Creamos un modulo con el siguiente codigo dentro de la carpeta app y dentro de una nueva.
+ruta: /home/albertusortiz/projects/youtube/algorisoft/pos_django/app/core
+python3 ../manage.py startapp erp
